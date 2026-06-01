@@ -29,7 +29,7 @@ datetime: Güncel tarih bilgisi eklemek için.
 random: Benzersiz Müşteri ID (CustomerID) üretimi için.
 
 🚀 Nasıl Çalıştırılır?
-Repoda bulunan .ipynb uzantılı dosyayı indirin.
+Repoda bulunan .py uzantılı dosyayı indirin.
 
 Google Colab üzerine yükleyin.
 
