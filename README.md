@@ -1,8 +1,5 @@
 # Python-Programlama-Donem-Odevi
 PYTHON PROGRAMLAMA DÖNEM ÖDEVİ Konu: Akıllı Müşteri Yönetim ve Analiz Sistemi (Telco Senaryosu) Ortam: Google Colab
-README dosyası, projenin "vitrinidir". Hocan sayfaya girdiğinde neyle karşılaşacağını burada görmeli. GitHub'da README.md dosyasını düzenle (kalem simgesine tıkla) ve aşağıdaki metni kopyalayıp yapıştır.
-
-Senin için profesyonel ve düzenli bir taslak hazırladım:
 
 Akıllı Müşteri Yönetim ve Analiz Sistemi (Telco Senaryosu)
 Bu proje, Python Programlama dersi dönem ödevi kapsamında hazırlanmıştır. 
